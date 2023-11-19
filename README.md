@@ -2,10 +2,14 @@
 find business registration and VAT number in dataset
 Using pandas and regex to process data
 
-python version
+python version: `>3`
+
 dataset: `company_sample.csv`
+
 requirements: `pip install -r requirements.txt`
+
 python script: `business_register_and_vat.py`
+
 output: `company_detail.csv`
 
 ### 1. Load Dataset
