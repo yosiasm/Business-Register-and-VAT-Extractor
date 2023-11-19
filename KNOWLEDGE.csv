@@ -1,0 +1,38 @@
+country,business_register,business_register_abb,vat,vat_abb
+Austria,Firmenbuchnummer,FN,Mehrwertsteuer,MwSt
+Austria,Unternehmens-Identifikationsnummer,UID,Mehrwertsteuer,MwSt
+Belgium,Banque-Carrefour des Entreprises,BCE,Belasting over de Toegevoegde Waarde,BTW
+Belgium,Kruispuntbank van Ondernemingen,KBO,Belasting over de Toegevoegde Waarde,BTW
+Bulgaria,Български уникален код за регистрация,БУЛСТАТ,Danak varhu dobavenata stoynost,ДДС
+Bulgaria,Български уникален код за регистрация,BULSTAT,Danak varhu dobavenata stoynost,DDS
+Croatia,Osobni identifikacijski broj,OIB,Porez na dodanu vrijednost,PDV
+Czech Republic,Identifikační číslo organizace,IČO,Dan z přidané hodnoty,DPH
+Cyprus,Company Registration Number,Αριθμός Εγγραφής Εταιρείας,Fos Pridiotitas Afksiotitas,ΦΠΑ
+Cyprus,Company Registration Number,Αριθμός Εγγραφής Εταιρείας,Fos Pridiotitas Afksiotitas,FPA
+Denmark,Centrale Virksomhedsregister,CVR,Moms,Moms
+Estonia,Registrikood,Registrikood,Käibemaks,KMKR
+Finland,Yritystunnus,Y-tunnus,Arvonlisävero,ALV
+France,Système d'Identification du Répertoire des Entreprises,SIREN,Taxe sur la Valeur Ajoutée,TVA
+France,Système d'Identification du Répertoire des Établissements,SIRET,Taxe sur la Valeur Ajoutée,TVA
+Germany,Handelsregister B,HRB,Umsatzsteuer,USt
+Germany,Umsatzsteuer-Identifikationsnummer,USt-IdNr,Umsatzsteuer-Identifikationsnummer,USt-ID
+Greece,Arithmos Forologikou Mitroou,ΑΦΜ,Foros Prostithemenis Aksias,FPA
+Hungary,Cégjegyzékszám,Cégjegyzékszám,Általános forgalmi adó,ÁFA
+Iceland,Registration handled by the Directorate of Internal Revenue,no data,Virðisaukaskattur,VSK
+Ireland,Companies Registration Office,CRO,Value Added Tax,VAT
+Italy,Partita Individuale di Identificazione,Partita IVA,Imposta sul Valore Aggiunto,IVA
+Latvia,Uzņēmuma reģistrācijas numurs,Uzņēmuma reģistrācijas numurs,Pievienotās vērtības nodoklis,PVN
+Liechtenstein,Firmennummer,FL,Mehrwertsteuer,MWST
+Lithuania,Įmonės kodas,Įmonės kodas,Pridėtinės vertės mokestis,PVM
+Luxembourg,Registre de Commerce et des Sociétés,RCS,Taxe sur la Valeur Ajoutée,TVA
+Malta,Registrar of Companies Malta,MBR,Value Added Tax,VAT
+Netherlands,Kamer van Koophandel,KvK,Belasting over de Toegevoegde Waarde,BTW
+Norway,Foretaksregisteret,Foretaksregisteret,Merverdiavgift,MVA
+Poland,Krajowy Rejestr Sądowy,KRS,Value Added Tax,VAT
+Portugal,Número de Identificação Fiscal,NIF,Imposto sobre o Valor Acrescentado,IVA
+Romania,Oficiul Național al Registrului Comerțului,ONRC,Taxa pe Valoarea Adaugata,TVA
+Slovakia,Identifikačné číslo osoby,IČO,Daň z pridanej hodnoty,DPH
+Slovenia,Company Registration Number,Matična številka,Davčna številka za DDV,DDV
+Spain,Código de Identificación Fiscal,CIF,Impuesto sobre el Valor Añadido,IVA
+Sweden,Organisationsnummer,Org.nr,Arvonlisävero,ALV
+

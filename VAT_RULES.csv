@@ -1,0 +1,108 @@
+group;country;country_code;code_format;char
+European Union;Austria;AT;ATU;8
+European Union;Belgium;BE;BE;10
+European Union;Belgium;BE;BE;11
+European Union;Bulgaria;BG;BG;9
+European Union;Bulgaria;BG;BG;10
+European Union;Croatia;HR;HR;11
+European Union;Cyprus;CY;CY;9
+European Union;Czech Republic;CZ;CZ;8
+European Union;Czech Republic;CZ;CZ;9
+European Union;Czech Republic;CZ;CZ;10
+European Union;Denmark;DK;DK;8
+European Union;Estonia;EE;EE;9
+European Union;Findland;FI;FI;7
+European Union;Findland;FI;FI;8
+European Union;France;FR;FR;11
+European Union;Germany;DE;DE;9
+European Union;Greece;EL;EL;9
+European Union;Hungary;HU;HU;8
+European Union;Ireland;IE;IE;8
+European Union;Ireland;IE;IE;9
+European Union;Italy;IT;IT;11
+European Union;Latvia;LV;LV;11
+European Union;Lithuania;LT;LT;9
+European Union;Lithuania;LT;LT;12
+European Union;Luxembourg;LU;LU;8
+European Union;Malta;MT;MT;8
+European Union;Netherlands;NL;NL;12
+European Union;Poland;PL;PL;10
+European Union;Poland;PL;PL;13
+European Union;Portugal;PT;PT;9
+European Union;Romania;RO;RO;2
+European Union;Romania;RO;RO;3
+European Union;Romania;RO;RO;4
+European Union;Romania;RO;RO;5
+European Union;Romania;RO;RO;6
+European Union;Romania;RO;RO;7
+European Union;Romania;RO;RO;8
+European Union;Romania;RO;RO;9
+European Union;Romania;RO;RO;10
+European Union;Slovakia;SK;SK;10
+European Union;Slovenia;SI;SI;8
+European Union;Spain;ES;ES;9
+European Union;Sweden;SE;SE;12
+Non-EU Countries;Albania;AL;AL;10
+Non-EU Countries;Australia;AU;AU;11
+Non-EU Countries;Belarus;BY;BY;9
+Non-EU Countries;Bosnia and Herzegovina;BA;BA;12
+Non-EU Countries;Bosnia and Herzegovina;BA;BA;12
+Non-EU Countries;Canada;CA;CA;9
+Non-EU Countries;China;CH;CH;18
+Non-EU Countries;Iceland;IS;IS;5
+Non-EU Countries;Iceland;IS;IS;6
+Non-EU Countries;India;IN;IN;15
+Non-EU Countries;Indonesia;ID;ID;15
+Non-EU Countries;Israel;IL;IL;9
+Non-EU Countries;Japan;JP;JP;13
+Non-EU Countries;Kazakhstan;KZ;KZ;12
+Non-EU Countries;Monaco;FR;FR;11
+Non-EU Countries;New Zeland;NZ;NZ;9
+Non-EU Countries;Nigeria;NG;NG;12
+Non-EU Countries;North Macedonia;MK;MK;15
+Non-EU Countries;Norway;NO;NO;9
+Non-EU Countries;Philipines;PH;PH;12
+Non-EU Countries;Russia;RU;RU;10
+Non-EU Countries;Russia;RU;RU;12
+Non-EU Countries;San Marino;SM;SM;5
+Non-EU Countries;Saudi Arabia;SA;SA;15
+Non-EU Countries;Serbia;RS;RS;9
+Non-EU Countries;Switzerland;CH;CH;6
+Non-EU Countries;Switzerland;CH;CHE;9
+Non-EU Countries;Taiwan;TW;TW;8
+Non-EU Countries;Turkey;TR;TR;10
+Non-EU Countries;Ukraine;UA;UA;12
+Non-EU Countries;United Kingdom and Isle of Man;GB;GB;3
+Non-EU Countries;United Kingdom and Isle of Man;GB;GB;9
+Non-EU Countries;United Kingdom and Isle of Man;GB;GB;12
+Non-EU Countries;United Kingdom and Isle of Man;GB;GBGD;3
+Non-EU Countries;United Kingdom and Isle of Man;GB;GBHA;3
+Non-EU Countries;Uzbekistan;UZ;UZ;9
+Latin American Countries;Argentina;AR;AR;11
+Latin American Countries;Bolivia;BO;BO;7
+Latin American Countries;Brazil;BR;BR;8
+Latin American Countries;Brazil;BR;BR;9
+Latin American Countries;Chile;CL;CL;10
+Latin American Countries;Chile;CL;CL;8
+Latin American Countries;Columbia;CO;CO;9
+Latin American Countries;Columbia;CO;CO;10
+Latin American Countries;Costa Rica;CR;CR;9
+Latin American Countries;Costa Rica;CR;CR;10
+Latin American Countries;Costa Rica;CR;CR;11
+Latin American Countries;Costa Rica;CR;CR;12
+Latin American Countries;Dominican Republic;DO;DO;11
+Latin American Countries;Dominican Republic;DO;DO;9
+Latin American Countries;Ecuador;EC;EC;13
+Latin American Countries;El Savador;SV;SV;14
+Latin American Countries;Guatemala;NIT;GT;8
+Latin American Countries;Honduras;HN;HN;10
+Latin American Countries;Mexico;MX;MX;13
+Latin American Countries;Mexico;MX;MX;12
+Latin American Countries;Nicaragua;NI;NI;14
+Latin American Countries;Panama;PA;PA;10
+Latin American Countries;Paraguay;PY;PY;7
+Latin American Countries;Paraguay;PY;PY;8
+Latin American Countries;Paraguay;PY;PY;9
+Latin American Countries;Peru;PE;PE;11
+Latin American Countries;Uruguay;UY;UY;12
+Latin American Countries;Venezuela;VE;VE;10
